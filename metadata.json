@@ -1,0 +1,6 @@
+{
+  "name": "한글 팡팡! 유아 한글 놀이터",
+  "description": "유아와 어린이를 위한 신나고 재미있는 한글 배우기 게임! 자음·모음 소리 듣기, 따라 쓰기, 낱말 퍼즐, 통통 풍선 터뜨리기, 짝 맞추기 카드 놀이까지!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
